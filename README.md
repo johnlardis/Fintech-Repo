@@ -28,6 +28,6 @@ Print("hello world")
 
 --- 
 
-![image](cats.jpg)
+![image],<cats.jpg>
 
 ![image](whatever.jpg)
