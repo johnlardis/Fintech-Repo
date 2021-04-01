@@ -24,7 +24,7 @@ Print("hello world")
 
 [Data] 
 [references]
-![image](OIP.JPG) Test
+![image](OIP.jpg) 
 
 --- 
 
