@@ -7,6 +7,8 @@
 
 --- will make a horizontal line 
 
+---
+
 
 **this is double asrerisk surrounded text**
 *This is single asterisk surrounded text* 
